@@ -1,0 +1,11 @@
+
+password.jsone
+
+Amina Isa@DESKTOP-S2E91O2 MINGW64 ~/Desktop/AFRICA DATA SCHOOL/New folder/ADS-GIT-TEST (master)
+$ touch app.py
+
+Amina Isa@DESKTOP-S2E91O2 MINGW64 ~/Desktop/AFRICA DATA SCHOOL/New folder/ADS-GIT-TEST (master)
+$ git add app.py
+
+Amina Isa@DESKTOP-S2E91O2 MINGW64 ~/Desktop/AFRICA DATA SCHOOL/New folder/ADS-GIT-TEST (master)
+$ git status
